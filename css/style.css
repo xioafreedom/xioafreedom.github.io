@@ -485,7 +485,7 @@ a:active {
   color: #666;
 }
 a:hover {
-  color: #ff5e52;
+  color: #8696a6;
 }
 hr {
   border-top: 1px solid #eee;
@@ -523,7 +523,7 @@ hr {
   background-color: #eee;
 }
 .btn {
-  background-color: #ff5e52;
+  background-color: #8696a6;
   border: 0;
   color: #fff;
   opacity: 0.8;
@@ -537,7 +537,7 @@ hr {
   opacity: 0.75;
 }
 .btn-ok {
-  background-color: #ff5e52;
+  background-color: #8696a6;
 }
 .btn-cancel {
   background-color: #51cc87;
@@ -600,7 +600,7 @@ hr {
   height: 68px;
   line-height: 68px;
   color: #fff;
-  background-color: #ff5e52;
+  background-color: #8696a6;
   opacity: 0.85;
   text-align: center;
   overflow: hidden;
@@ -651,10 +651,10 @@ hr {
   color: #666;
 }
 .menu .item a:hover {
-  color: #ff5e52;
+  color: #8696a6;
 }
 .menu .current a {
-  color: #ff5e52;
+  color: #8696a6;
 }
 .header .profile {
   position: absolute;
@@ -698,11 +698,11 @@ hr {
   margin-left: 5px;
 }
 .profile .feeds .sns .sinaweibo b {
-  color: #ff5e52;
+  color: #8696a6;
   font-size: 14px;
 }
 .profile .feeds .sns .sinaweibo:hover {
-  color: #ff5e52;
+  color: #8696a6;
 }
 .profile .feeds .sns .qqweibo b {
   color: #1faeff;
@@ -810,7 +810,7 @@ hr {
   padding: 4px 7px;
   top: -3px;
   color: #fff;
-  background-color: #ff5e52;
+  background-color: #8696a6;
   font-size: 12px;
   vertical-align: baseline;
   opacity: 0.85;
@@ -823,7 +823,7 @@ hr {
   width: 0;
   height: 0;
   content: " ";
-  border-left: 4px solid #ff5e52;
+  border-left: 4px solid #8696a6;
   border-top: 4px solid transparent;
   border-bottom: 4px solid transparent;
 }
@@ -833,7 +833,7 @@ hr {
   font-weight: normal;
 }
 .post header .post-title a:hover {
-  border-bottom: 1px dotted #ff5e52;
+  border-bottom: 1px dotted #8696a6;
 }
 .post .post-meta {
   color: #888;
@@ -905,7 +905,7 @@ hr {
   transition: all 0.3s ease-in-out;
 }
 .post .post-content a {
-  border-bottom: 1px dotted #ff5e52;
+  border-bottom: 1px dotted #8696a6;
 }
 .post .post-content .more a {
   position: absolute;
@@ -1150,7 +1150,7 @@ pre .javascript .function {
   display: inline-block;
   bottom: -2px;
   color: #444;
-  border-bottom: 2px solid #ff5e52;
+  border-bottom: 2px solid #8696a6;
   font-weight: normal;
 }
 .widget .widget-hd .logout {
@@ -1240,7 +1240,7 @@ pre .javascript .function {
 }
 .widget .widget-bd .tag-item:hover {
   color: #fff;
-  background-color: #ff5e52;
+  background-color: #8696a6;
   opacity: 0.85;
 }
 .widget .widget-bd .tag-item:nth-child(3n+0) {
@@ -1330,7 +1330,7 @@ pre .javascript .function {
 .page-navigator .extend.current,
 .page-navigator .page-number.current {
   color: #fff;
-  background-color: #ff5e52;
+  background-color: #8696a6;
   cursor: not-allowed;
 }
 .page-navigator .extend,
@@ -1456,7 +1456,7 @@ pre .javascript .function {
   border-right: 1px solid #ccc;
 }
 .comment .box .com-text .switch .on {
-  color: #ff5e52;
+  color: #8696a6;
 }
 .comment .box .com-text .main {
   margin: 0;
@@ -1508,7 +1508,7 @@ pre .javascript .function {
   -o-border-radius: 0 0 2px 0;
   border-radius: 0 0 2px 0;
   color: #fff;
-  background-color: #ff5e52;
+  background-color: #8696a6;
   text-align: center;
   opacity: 0.8;
   cursor: pointer;
@@ -1524,7 +1524,7 @@ pre .javascript .function {
 }
 .comment .sign-bar .sign-link {
   margin-left: 5px;
-  color: #ff5e52;
+  color: #8696a6;
   cursor: pointer;
   border: none;
 }
@@ -1552,7 +1552,7 @@ pre .javascript .function {
   border-left: 2px solid #eee;
 }
 .comment .list-wrap .list-header .comments-num {
-  color: #ff5e52;
+  color: #8696a6;
   font-size: 14px;
 }
 .comment .list-wrap .list {
@@ -1600,7 +1600,7 @@ pre .javascript .function {
 }
 .comment .list-wrap .list .user-comment .user-comment-body a {
   border: none;
-  color: #ff5e52;
+  color: #8696a6;
 }
 .comment .list-wrap .list .user-comment .user-comment-header {
   color: #aaa;
@@ -1617,7 +1617,7 @@ pre .javascript .function {
 }
 .comment .list-wrap .list .user-comment .user-comment-header .like {
   font-size: 10px;
-  color: #ff5e52;
+  color: #8696a6;
   cursor: pointer;
 }
 .comment .list-wrap .list .user-comment .user-comment-header .like.liked {
@@ -1655,7 +1655,7 @@ pre .javascript .function {
 }
 .comment .page-nav .item.current {
   color: #fff;
-  background-color: #ff5e52;
+  background-color: #8696a6;
   cursor: not-allowed;
 }
 .comment .page-nav .more {
