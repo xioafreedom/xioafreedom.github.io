@@ -1,0 +1,19 @@
+extends partial/layout
+
+block header
+  include partial/header
+
+block content
+  include mixins/post
+  +posts()
+
+block sidebar
+  include partial/sidebar
+  
+block pagination
+  include mixins/paginator
+  +home()
+  
+block copyright
+  include partial/footer
+  
