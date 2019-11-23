@@ -1339,6 +1339,9 @@ pre .javascript .function {
   font-size: 12px;
   text-align: center;
   opacity: 0.9;
+  width: -webkit-fill-available;
+  position: absolute;
+  bottom: 0;
 }
 .footer a {
   color: #aaa;
