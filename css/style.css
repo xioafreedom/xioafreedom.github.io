@@ -605,35 +605,6 @@ hr {
   text-align: center;
   overflow: hidden;
 }
-.logo a .cover {
-  position: absolute;
-  display: block;
-  top: 0;
-  left: 0;
-  width: 100%;
-  -ms-transition: top 0.5s;
-  -moz-transition: top 0.5s;
-  -webkit-transition: top 0.5s;
-  -o-transition: top 0.5s;
-  transition: top 0.5s;
-}
-.logo a .cover .name {
-  display: block;
-  height: 100%;
-  font-size: 28px;
-  font-family: "HomizioNova", "Microsoft Yahei";
-  font-style: italic;
-}
-.logo a .cover .description {
-  display: block;
-  height: 100%;
-  color: #fff;
-  background-color: #069d70;
-  opacity: 0.85;
-}
-.logo a:hover .cover {
-  top: -100%;
-}
 .header .menu {
   margin: 0;
   padding: 10px;
