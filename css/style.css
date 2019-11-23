@@ -516,7 +516,7 @@ hr {
   max-width: 1180px;
   _width: 1180px;
   background-color: #fff;
-  margin: 0 auto 10px;
+  margin: 0 auto 0;
   text-align: left;
 }
 .home {
@@ -581,6 +581,13 @@ hr {
 /*
  * 头部样式
  */
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  position: relative;
+}
 .header {
   width: 100%;
   background-color: #fff;
@@ -1285,6 +1292,7 @@ pre .javascript .function {
 }
 .body {
   box-shadow: 0 1px 5px rgba(0,0,0,0.08);
+  padding-bottom: 100px;
 }
 .article {
   padding-top: 0 !important;
