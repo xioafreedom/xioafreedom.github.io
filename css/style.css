@@ -448,7 +448,7 @@ th {
  */
 ::selection {
   color: #fff;
-  background-color: #f99;
+  background-color: #9193a8;
   opacity: 0.8;
 }
 ::-webkit-scrollbar {
@@ -540,7 +540,7 @@ hr {
   background-color: #8696a6;
 }
 .btn-cancel {
-  background-color: #51cc87;
+  background-color: #069d70;
 }
 .form-control {
   -ms-box-sizing: border-box;
@@ -628,7 +628,7 @@ hr {
   display: block;
   height: 100%;
   color: #fff;
-  background-color: #51cc87;
+  background-color: #069d70;
   opacity: 0.85;
 }
 .logo a:hover .cover {
@@ -915,7 +915,7 @@ hr {
   padding: 3px 7px;
   border: none;
   color: #fff;
-  background-color: #51cc87;
+  background-color: #069d70;
   opacity: 0.8;
 }
 .post .post-content .more a:hover {
