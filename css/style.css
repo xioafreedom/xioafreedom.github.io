@@ -605,6 +605,13 @@ hr {
   text-align: center;
   overflow: hidden;
 }
+.logo a .cover .name {
+  display: block;
+  height: 100%;
+  font-size: 28px;
+  font-family: "HomizioNova", "Microsoft Yahei";
+  font-style: italic;
+}
 .header .menu {
   margin: 0;
   padding: 10px;
