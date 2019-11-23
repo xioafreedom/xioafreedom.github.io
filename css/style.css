@@ -1676,7 +1676,6 @@ pre .javascript .function {
 }
 @media screen and (max-width: 959px) {
   .container {
-    margin-bottom: 10px;
     padding: 0 10px;
     padding-bottom: 100px;
   }
