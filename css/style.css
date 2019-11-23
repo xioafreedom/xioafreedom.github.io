@@ -521,6 +521,8 @@ hr {
 }
 .home {
   background-color: #eee;
+  position: relative;
+  padding-bottom: 100px;
 }
 .btn {
   background-color: #8696a6;
